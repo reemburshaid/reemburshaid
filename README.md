@@ -35,9 +35,6 @@ I'm Reem, a computer engineer who is passionate about software & robotics.
   
   <!-- MATLAB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40" alt="MATLAB" />
-  
-  <!-- MongoDB -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
 
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
