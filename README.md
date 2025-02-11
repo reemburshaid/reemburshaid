@@ -75,6 +75,9 @@ I'm Reem, a computer engineer who is passionate about software & robotics.
   <!-- VHDL -->
   <img src="https://github.com/user-attachments/assets/9163daff-af49-405b-a206-44958cf8818b" width="40" height="40" alt="VHDL" />
 
+  <!-- Raspberry Pi -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" alt="Raspberry Pi" />
+
 </p>
 
 # 📊 GitHub Stats:
