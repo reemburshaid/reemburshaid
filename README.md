@@ -80,3 +80,4 @@ I'm Reem, a computer engineer who is passionate about software & robotics.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=reemburshaid&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=reemburshaid&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=reemburshaid&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
